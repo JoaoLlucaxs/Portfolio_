@@ -1,5 +1,5 @@
 .footer{
-    background:#48592F;
+    background: #2e1e47;
 }
 .footer_container{
     max-width: 1200px;
@@ -34,8 +34,8 @@
 .footer_contato button{
     padding: 10px;
     border-radius: 5px;
-    background: #48592F;
-    color: #ccc;
+    background:#fff;
+    color: #2e1e47;
     border: 1px solid #ccc;
     line-height: 1.1;
     cursor: pointer;
