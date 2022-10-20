@@ -5,12 +5,10 @@
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 100px;
-    background: #3c1577;
-    background: -webkit-linear-gradient( #6a26cd);
-    background: linear-gradient(#6a26cd);
+    background: #fff;
 }
 .projeto .subtitulo{
-    color: #fff;
+    color: #222;
 }
 .projetos_mod::before{
     content: '';
@@ -72,8 +70,8 @@
 }
 .btn_projeto{
     text-decoration: none;
-    color: #2e1e47;
-    background:#fff;
+    color: #fff;
+    background: #2e1e47;
     padding: 10px;
     text-align: center;
 }
