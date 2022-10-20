@@ -4,4 +4,4 @@
 
 ##Sobre 📒
 
-💻 Esse é o meu Portfólio dê uma olha https://joaollucaxs.github.io/Portfolio_/
+💻 Conheça meu portfólio e entre em contato comigo
