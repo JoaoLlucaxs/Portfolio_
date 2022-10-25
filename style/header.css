@@ -11,7 +11,7 @@
    width: 100px;
 }
 span{
-    border-bottom: 1px solid #6a26cd;
+    border-bottom: 1px solid #225229;
 }
 .header_menu{
     display: flex;
@@ -23,16 +23,14 @@ span{
     font-size: 1.125rem;
     line-height: 1.3;
     padding: 10px 10px;
-    border-bottom: 1px solid #6a26cd;
+    border-bottom: 1px solid #fff;
     text-decoration: none;
     color: #fff;
     border-radius: 10px;
     display: block;
 }
 .header_menu a:hover{
-    background: #6a26cd;
-    background: -webkit-linear-gradient(to right,#37b9f1,  #6a26cd);
-    background: linear-gradient(to right,#37b9f1,  #6a26cd);
+    background:#225229;
     color: #fff;
     transition: .5s;
 }
