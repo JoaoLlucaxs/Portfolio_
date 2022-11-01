@@ -16,6 +16,12 @@
     line-height: 1.100;
     margin-bottom: 30px;
 }
+.introducao a{
+    padding: 10px;
+    background-color: rgb(253, 253, 252);
+    color: #222;
+    border-radius: 2px;
+}
 
 @media(max-width:1000px){
     .introducao h1{
