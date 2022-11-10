@@ -12,7 +12,7 @@
 }
 .introducao h1{
     font-size: 3.5rem;
-    color:#ccc;
+    color:#fff;
     line-height: 1.100;
     margin-bottom: 30px;
 }
@@ -21,6 +21,14 @@
     background-color: rgb(253, 253, 252);
     color: #222;
     border-radius: 2px;
+}
+.btn_projeto{
+    text-decoration: none;
+    color: #fff;
+    background: #B8DE47;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
 }
 
 @media(max-width:1000px){
