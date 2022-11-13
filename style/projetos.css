@@ -5,10 +5,12 @@
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 100px;
-    background:#868585;
+    background: rgb(206, 205, 205);
+    border-radius: 2px;
+    box-shadow: 5px 5px 5px 5px #000;
 }
 .projeto .subtitulo{
-    color: #fff;
+    color: #fff;;
 }
 .projetos_mod::before{
     content: '';

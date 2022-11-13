@@ -2,10 +2,9 @@ body{
     margin: 0px;
     font-family: "Fira Sans",Arial, sans-serif;
     background-color: #101220;
-    background-image: url('../assets/Polygon\ 1.png');
+    /*background-image: url('../assets/Polygon\ 1.png');*/
     background-repeat: no-repeat;
     object-fit: contain;
-    
 }
 h1,h2,h3,p{
     margin: 0px;
