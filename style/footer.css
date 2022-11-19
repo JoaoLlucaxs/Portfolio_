@@ -1,5 +1,5 @@
 .footer{
-    background: #B8DE47;
+    background:#430C66;
 }
 .footer_container{
     max-width: 1200px;
@@ -21,13 +21,13 @@
 }
 .footer_contato input{
     display: block;
-    border: 1px solid #48592F;
+    border: 1px solid #430C66;
     padding: 10px;
     border-radius: 10px;
 }
 .footer_contato .area{
     display: block;
-    border: 1px solid #48592F;
+    border: 1px solid#430C66;
     padding: 10px;
     border-radius: 10px;
 }

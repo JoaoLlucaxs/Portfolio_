@@ -17,7 +17,7 @@
     max-width: 5ch;
 }
 em{
-    color: #B8DE47;
+    color:#430C66;
 }
 .formacao_texto{
     font-size: 1.5rem;
@@ -58,7 +58,7 @@ em{
 display: block;
 width: 4px;
 height: 20px;
-background: linear-gradient( #225229, #15491d);
+background: linear-gradient( #7315AD, #951BE0);
 position: absolute;
 left:-24px;
 }

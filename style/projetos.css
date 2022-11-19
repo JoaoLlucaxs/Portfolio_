@@ -1,5 +1,5 @@
 .projeto{
-    max-width: 1200px;
+    max-width: 100%;
     padding: 40px 20px;
     margin: 0 auto;
     display: grid;
@@ -8,7 +8,11 @@
     background: rgb(206, 205, 205);
     border-radius: 2px;
     box-shadow: 5px 5px 5px 5px #000;
-}
+ 
+    }
+   
+     
+
 .projeto .subtitulo{
     color: #fff;;
 }
@@ -42,7 +46,7 @@
     border-radius: 4px;
 }
 .projetos_mod a{
-    background-color: #B8DE47;
+    background-color:#4B2961;
     text-decoration: none;
     color: #fff;
     padding: 10px 10px;
@@ -73,7 +77,7 @@
 .btn_projeto{
     text-decoration: none;
     color: #fff;
-    background: #B8DE47;
+    background:#B260E6;
     padding: 10px;
     text-align: center;
     border-radius: 5px;
@@ -85,7 +89,7 @@
         gap: 40px;
     }
     .projeto .subtitulo{
-        color:  #B8DE47;
+        color:  #222;
     }
     .projeto_texto{
         font-size: 1.25rem;

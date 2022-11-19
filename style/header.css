@@ -11,9 +11,7 @@
    width: 100px;
    border-radius: 50%;
 }
-span{
-    border-bottom: 1px solid #B8DE47;
-}
+
 .header_menu{
     display: flex;
     gap: 10px;
@@ -24,7 +22,7 @@ span{
     font-size: 1.125rem;
     line-height: 1.3;
     padding: 10px 10px;
-    border-bottom: 1px solid #B8DE47;
+    border-bottom: 1px solid #430c66;
     text-decoration: none;
     color: #fff;
     border-radius: 10px;
@@ -44,7 +42,7 @@ span{
     }
     .header a{
         background-color: #fff;
-        color: #B8DE47;
+        color:#430c66;
         border-radius: 5px;
     }
 }
