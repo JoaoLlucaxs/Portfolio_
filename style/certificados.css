@@ -1,5 +1,5 @@
 .formacao{
-    background: #101220;
+    background: #fff;
     color: #fff;
 }
 
@@ -13,7 +13,7 @@
     position: relative;
 }
 .formacao .subtitulo{
-    color: #fff;
+    color: #222;
     max-width: 5ch;
 }
 em{
@@ -24,7 +24,7 @@ em{
     line-height: 1.33;
     max-width: 40ch;
     margin-bottom: 60px;
-    color: #a3a3a3;
+    color:#000;
 }
 .certificado_lista{
     display: flex;
@@ -33,7 +33,7 @@ em{
     margin-bottom: 60px;
 }
 .certificado{
-    background-color: #000;
+    background-color:#430C66;
     padding: 20px;
     border-radius: 5px;
     flex: 1;
@@ -43,7 +43,7 @@ em{
 .certificado_tipo{
     font-size: .875rem;
     text-transform: uppercase;
-    color: #a3a3a3;
+    color: #ccc;
     margin-bottom: 10px;
 }
 .certificado_curso{
@@ -58,7 +58,7 @@ em{
 display: block;
 width: 4px;
 height: 20px;
-background: linear-gradient( #7315AD, #951BE0);
+background: linear-gradient( #000, #000);
 position: absolute;
 left:-24px;
 }
@@ -68,7 +68,7 @@ left:-24px;
 .extra h3{
     font-size: 0.875rem;
     line-height: 1.4;
-    color: #cccc;
+    color:#430C66;
     text-transform: uppercase;
     margin-bottom: 30px;
     position: relative;
@@ -84,13 +84,17 @@ left:-24px;
 }
 .list a{
     text-decoration: none;
-    color:  #fff;
-    border-bottom: 1px solid #fff;
+    color:#000;
+    border-bottom: 1px solid #430C66;
 }
 .list li{
     font-size: 1.125rem;
     line-height: 1.1;
     margin-bottom: 20px;
+}
+span{
+    color: #222;
+    border-bottom: 1px solid #430C66;
 }
 
 @media(max-width:800px){
@@ -100,7 +104,7 @@ left:-24px;
         gap: 40px;
     }
     .formacao .subtitulo{
-        color: #fff;
+        color: #222;
         font-size: 1.35rem;
     }
     .extra h3::before{

@@ -3,7 +3,7 @@
     display: flex;
     max-width: 1200px;
     margin: 0 auto;
-    justify-content: space-between;
+    justify-content:space-between;
     padding: 10px 20px;
     align-items: center;
 }
@@ -24,13 +24,13 @@
     padding: 10px 10px;
     border-bottom: 1px solid #430c66;
     text-decoration: none;
-    color: #fff;
+    color:#430c66;
     border-radius: 10px;
     display: block;
 }
 .header_menu a:hover{
-    background:#fff;
-    color: #222;
+    background:#222;
+    color:#fff;
     transition: .5s;
 }
 

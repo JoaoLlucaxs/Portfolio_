@@ -5,12 +5,16 @@
     display: grid;
     grid-template-columns: 1fr 2fr;
     gap: 100px;
-    background: rgb(206, 205, 205);
+    background:#0F0E17;
     border-radius: 2px;
-    box-shadow: 5px 5px 5px 5px #000;
- 
-    }
    
+    }
+    
+    @media (min-width:2100px){
+        .projeto::before{
+    background-size: 100% calc(2vw + 90px);
+    }
+    }
      
 
 .projeto .subtitulo{
@@ -89,7 +93,7 @@
         gap: 40px;
     }
     .projeto .subtitulo{
-        color:  #222;
+        color:  #fff;
     }
     .projeto_texto{
         font-size: 1.25rem;
