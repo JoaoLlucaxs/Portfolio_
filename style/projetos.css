@@ -20,15 +20,6 @@
 .projeto .subtitulo{
     color: #fff;;
 }
-.projetos_mod::before{
-    content: '';
-    display: block;
-    width: 4px;
-    height: 20px;
-    background: linear-gradient(#222,#222);
-    position: absolute;
-    right: 3.5rem;
-}
 .projeto_texto{
     font-size: 1.5rem;
     line-height: 1.33;
